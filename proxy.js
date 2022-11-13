@@ -17,7 +17,7 @@ const playerServer = mc.createServer({
   motd: "§4Proxy -> §fSeal's super proxy!!!"
 })
 
-console.log(`Proxy running at 0.0.0.0:${port} ${version}`)
+console.log(`Proxy running at 0.0.0.0:${port} @${version}`)
 
 let playerConnection
 
