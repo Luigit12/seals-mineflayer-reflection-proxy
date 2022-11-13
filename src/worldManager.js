@@ -12,7 +12,7 @@ const HOST = "constantiam.net"
 const EMAIL = accounts.split('\n')[0].split(':')[0]
 const PASSWORD = accounts.split('\n')[0].split(':')[1]
 const PORT = 25565
-const VERSION = '1.12.2'
+const VERSION = '1.19.1'
 
 export class Connection {
   constructor(host, port=25565) {

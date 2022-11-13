@@ -6,7 +6,7 @@ import { Connection } from './src/worldManager.js'
 
 let host = "constantiam.net"
 let port = 25565
-let version = '1.12.2'
+let version = '1.19.1'
 
 // Server user connects to
 const playerServer = mc.createServer({
