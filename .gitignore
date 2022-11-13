@@ -1,0 +1,4 @@
+.env
+node_modules/
+launcher_accounts.json
+/config/account.txt
